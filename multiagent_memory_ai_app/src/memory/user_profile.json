@@ -1,0 +1,22 @@
+{
+  "name": "Molly",
+  "preferences": {
+    "wants_reminders": true
+  },
+  "contacts": [
+    "Niharika",
+    "Ragini"
+  ],
+  "routines": {
+    "breakfast": "11 AM",
+    "lunch": "2:30 PM",
+    "dinner": "11 PM",
+    "medications": {
+      "white pill": "before dinner"
+    }
+  },
+  "traits": {},
+  "meal_content": {
+    "dinner": "during dinner?"
+  }
+}
